@@ -74,4 +74,13 @@ https://wims.io/tv/
 14. Online Store
 https://wims.io/store
 
+Email : cto@wims.io, admin@wims.io, info@wims.io
 
+Donations:
+
+BTC
+3MAqCc7C4bDWetEWZm758iGkdEW5Pik6fd
+ETH
+0x6b7fd3174c79d4a68a7FA45f0F6D32eCB7c6508F
+BCC/BCH
+1MW2cLi2tdDzy2DsX1FhGQ8DpfKQmKxSYY
