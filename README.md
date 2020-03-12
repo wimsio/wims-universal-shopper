@@ -1,4 +1,5 @@
 # Wims Universal Shopper(WUS)
+
 This is a blockchain based dApp for collecting loyalty shopping points world wide. The primary goal of this project is to making shopping profitable for shoppers who are mainly women according to this research https://www.statista.com/statistics/311406/us-online-shopping-categories-gender/.
 
 WIMS Universal Shopper is a consumer loyalty points dApp(blockchain - smart contract) which integrate all existing cards/apps/programs shoppers carry.
@@ -73,8 +74,13 @@ Email : cto@wims.io, admin@wims.io, info@wims.io
 
 Donations:
 BTC: 
+
 3MAqCc7C4bDWetEWZm758iGkdEW5Pik6fd 
+
 ETH:
+
 0x6b7fd3174c79d4a68a7FA45f0F6D32eCB7c6508F 
+
 BCC/BCH:
+
 1MW2cLi2tdDzy2DsX1FhGQ8DpfKQmKxSYY
