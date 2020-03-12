@@ -72,7 +72,10 @@ https://web.telegram.org/#/im?p=@wimsolutions
 
 Email : cto@wims.io, admin@wims.io, info@wims.io
 
+Do you want to see more women in blockchain? Sponsor WIMS below or join us:
+
 Donations:
+
 BTC: 
 
 3MAqCc7C4bDWetEWZm758iGkdEW5Pik6fd 
