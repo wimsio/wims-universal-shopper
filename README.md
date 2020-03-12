@@ -42,4 +42,33 @@ The dApp should be secure, simple, efficient and blend naturally with women's ex
 I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
 
 
+If you are new to WIMS then check our project from links below:
+
+1. Exchanges
+https://wimsbytetrade.com/
+https://wims.io/ccx/
+2. Twitter
+https://twitter.com/wims83881017
+3. Website
+https://wims.io/
+4. Forum
+https://wims.io/forum/
+5. Facebook
+https://www.facebook.com/wimsblockchain/?modal=admin_todo_tour
+6.Youtube
+https://www.youtube.com/channel/UCqSwuXcJFZd0czE2b0c79CA
+7. Github
+https://github.com/wimsio
+8. Etherscan
+https://etherscan.io/token/0x115170eb12107c377046eaed6e0d7179505ce6d1
+9. Subscriptions
+https://www.wims.io/marketing/oD921Yqx2aDHDcuX4X46L4WQFxmRwlxuRYtGPRPj/
+10. Classified
+https://wims.io/crypto-assets-market/
+11. Newsletter
+https://wims.io/newsletter/newsletter-entry.php
+12. Telegram
+https://web.telegram.org/#/im?p=@wimsolutions
+13. WebTV
+
 
