@@ -68,16 +68,11 @@ https://wims.io/crypto-assets-market/
 https://wims.io/newsletter/newsletter-entry.php
 12. Telegram
 https://web.telegram.org/#/im?p=@wimsolutions
-13. WebTV
-https://wims.io/tv/
-14. Online Store
-https://wims.io/store
 
 Email : cto@wims.io, admin@wims.io, info@wims.io
 
 Donations:
-
-BTC
+BTC 
 3MAqCc7C4bDWetEWZm758iGkdEW5Pik6fd
 ETH
 0x6b7fd3174c79d4a68a7FA45f0F6D32eCB7c6508F
