@@ -63,12 +63,15 @@ https://github.com/wimsio
 https://etherscan.io/token/0x115170eb12107c377046eaed6e0d7179505ce6d1
 9. Subscriptions
 https://www.wims.io/marketing/oD921Yqx2aDHDcuX4X46L4WQFxmRwlxuRYtGPRPj/
-10. Classified
+10. Classified Market Place
 https://wims.io/crypto-assets-market/
 11. Newsletter
 https://wims.io/newsletter/newsletter-entry.php
 12. Telegram
 https://web.telegram.org/#/im?p=@wimsolutions
 13. WebTV
+https://wims.io/tv/
+14. Online Store
+https://wims.io/store
 
 
