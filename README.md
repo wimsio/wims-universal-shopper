@@ -19,6 +19,27 @@ b) Loss of rewards
 
 Quite often consumers lose cards and consequently lose points/rewards. Forgetting the cards(or losing these cards) at home also leads to loss of points/rewards. WUS will stop these problems and consequently more women will benefit from accrued rewards stored permanently on blockchain.
 
+Consumers must be able to get their shopping rewards with or without a card using their mobile phone numbers as the only needed Identifier.
+
 c) New Companies will find it easy to introduce their rewards.
 
-New companies thinking of creating new cards for new services/products can save funds by just registering with wims-universal-shopper.
+New companies thinking of creating new cards/rewards for new services/products can save funds by just registering with wims-universal-shopper.
+
+d) Remote Women
+
+Quite often women leaving in remote areas lack access to these rewards. WUS must be usable in areas like farms, villages, rural areas where there is no internet access. 
+
+The dApp should work offline and sync with the blockchain when the user is where there is wifi or internet connection.
+
+e) Save data
+
+Many women have limit access to data or fast internet. The dApp must run on 2G/3G and work offline as well to help women use it with limited data.
+
+d) Security
+
+The dApp should be secure, simple, efficient and blend naturally with women's experiences.
+
+I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
+
+
+
