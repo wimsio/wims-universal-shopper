@@ -41,7 +41,6 @@ The dApp should be secure, simple, efficient and blend naturally with women's ex
 
 I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
 
-
 If you are new to WIMS then check our project from links below:
 
 1. Exchanges
