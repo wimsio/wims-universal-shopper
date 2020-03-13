@@ -40,6 +40,48 @@ d) Security
 
 The dApp should be secure, simple, efficient and blend naturally with women's experiences.
 
+Other Ways to Promote Women are listed below:
+---------------------------------------------
+
+How will WIMS promote Women in blockchain using RSK?
+
+1. Consumer
+
+	"Study shows women drive between 70% and 80% of all consumer purchasing",(Source: https://www.bizcommunity.com/Article/196/19/188975.html)
+
+	Identify and promote activities which improve the life styles of women such as shopping, beauty
+	- WIMS Universal Shopper(source: https://github.com/wimsio/wims-universal-shopper/edit/master/README.md)
+	- WIMS blockchain based services/products etc
+	
+2. Business
+
+	"Women in Cryptocurrency and Blockchain", (Source : https://www.bitira.com/women-in-cryptocurrency-and-blockchain/)
+	- promote viable women based entrepreneurial ventures which marry traditional businesses with blockchain technologies
+
+3. Education
+
+	"TokenWoman",(Source: https://www.tokenwoman.io/#About)
+	
+    "10 May Half The Sky, Half the Wealth: How learning blockchain benefits girls",(Source: https://globalwomeninblockchain.org/half-the-sky-half-the-wealth-how-learning-blockchain-benefits-girls/)
+	- blockchain RSK blockchain, coins RBTC, BTC, ETH, WIMT
+	
+4. Games 
+
+	"Women Revolutionizing Blockchain: Cryptocurrencies for Change", (Source : https://www.cfr.org/event/women-revolutionizing-blockchain-cryptocurrencies-change-0)
+	- competitions on creating rsk blockchain based games, services, dApps.
+	
+5. Entertainment
+
+	- internet webTV(https://www.webtvsolutions.com/) and Radio broadcasting stations for on blockchain RSK
+	
+	"Blockchain seeks to continue this trend by creating a more direct relationship between creators and fans. ",
+	(Source: https://www.forbes.com/sites/tatianakoffman/2020/02/26/how-blockchain-will-transform-media--entertainment/#62010c5e1d1b)
+
+6. Promote Women Empowerment Lobbyists Via Blockchain
+
+	"the care work provided by women should be supported, while providing alternatives that empower women.",
+	(Source: https://www.tandfonline.com/doi/full/10.1080/13552074.2019.1634332)
+
 I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
 
 If you are new to WIMS then check our project from links below:
