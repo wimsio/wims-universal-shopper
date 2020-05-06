@@ -8,7 +8,7 @@ Why?
 
 According to Lindsey Peacock(2008),"Over the last decade, loyalty and customer rewards programs have proven they’re an effective way to drive customer retention, boost customer lifetime value, and inspire loyalty. While the low-key punch card has its place for some businesses, a truly innovative approach to customer loyalty programs can create huge value for retailers."(Source: https://www.shopify.com/blog/loyalty-program)
 
-The problem:
+The Problem:
 
 When people shop in stores they are given points via a vendor specific shopping cards. Each company has its own card to promote its product/services.
 
