@@ -118,14 +118,5 @@ Do you want to see more women in blockchain? Sponsor WIMS below or join us:
 
 Donations:
 
-BTC: 
+For any donations anyone can communicate with use via cto@wims.io or admin@wims.io
 
-19yLibCaVmPGum8XcHn6NpQUYQ8eADq3hL
-
-ETH:
-
-0x6b7fd3174c79d4a68a7FA45f0F6D32eCB7c6508F 
-
-BCC/BCH:
-
-1MW2cLi2tdDzy2DsX1FhGQ8DpfKQmKxSYY
