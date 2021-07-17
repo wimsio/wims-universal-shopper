@@ -14,7 +14,7 @@ WIMS Cardano Universal Shopper is a consumer loyalty points dApp(blockchain - sm
 
 Why Cardano not Bitcoin, not Ethereum, or other cryptos?
 
-We have explored many blockchains(Dfinity, Polkadot, RSK, Cosmos, Ethereum...) none of them have EUTXO model which makes it possible to extend utility of blockchain beyond just finance. With the datum and redeemer features in transactions, many supporting dApps on this project will be possible. For example, we can attach email addresses to shopping transactions on blockchain and thus adding security rewars owners.(https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/)
+We have explored many blockchains(Dfinity, Polkadot, RSK, Cosmos, Ethereum...) none of them have EUTXO model which makes it possible to extend utility of blockchain beyond just finance. With the datum and redeemer features in transactions, many supporting dApps on this project will be possible. For example, we can attach email addresses to shopping transactions on blockchain and thus adding security to reward(shopping points) owners.(https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/)
 
 Transactions are fast and inexpensive, scallable and secure. This project will also benefit from lots of science, mathematical and financial research world wide. Everyone can relate to this project because everyone is a shopper: Developers, marketers, consultants, all industries, governments, urban dwellers, rural dwellers, developing worlds and developed world. We are all shoppers and we all can collaboratively make this happen and we can all be rewarded by this project.
 
