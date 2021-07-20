@@ -1,4 +1,4 @@
-# WIMS Cardano Universal Shopper(WCUS) [Dr Lars' Mother]
+# WIMS Cardano Universal Shopper(WCUS)
 
 This is a blockchain based(Cardano) dApp for collecting loyalty shopping points world wide. The primary goal of this project is to make shopping profitable for consumers who are mainly women according to this research https://www.statista.com/statistics/311406/us-online-shopping-categories-gender/.
 
