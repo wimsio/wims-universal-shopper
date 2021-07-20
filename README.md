@@ -57,10 +57,8 @@ The dApp should be secure, simple, efficient and blend naturally with women's ex
 e) Utility value of blockchain: one of the most difficult things with blockchains is that they are so abstract that they are not usable in our daily lives. This project is one of the few that will make ADA gain utility value.
 
 
-Other Ways to Promote Women are listed below:
----------------------------------------------
-
-How will WIMS promote Women in blockchain using RSK?
+Other Ways to Promote Women are listed below(WCUS - complements these):
+----------------------------------------------------------------------
 
 1. Consumer
 
@@ -101,7 +99,7 @@ How will WIMS promote Women in blockchain using RSK?
 	
 But all the above lack one thing: They do not really touch what women world wide love most: shopping and shopping rewards.
 
-I am looking for funding for this WIMS dApp. I am also looking for interested developers to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
+I am looking for funding for this WIMS Cardano dApp. I am also looking for interested developers(and skilled people as well as investors) to partner and make this happen. Lastly I am looking for companies interested in partnering with WIMS on this or other projects.
 
 If you are new to WIMS then check our project from links below:
 
@@ -135,9 +133,157 @@ https://web.telegram.org/#/im?p=@wimsolutions
 
 Email : cto@wims.io, admin@wims.io, info@wims.io
 
-Do you want to see more women in blockchain? Sponsor WIMS below or join us:
+Other discord member emails:
+---------------------------
+
+rtbuckton@wims.io,
+dikgoleonkemetse@wims.io,
+celiwengwenya3@wims.io, 
+juniorWebProjects@wims.io,
+vimbainashe@wims.io,
+beaula@wims.io,
+bmmamiki@wims.io,
+noeljohn1000@wims.io,
+cto@wims.io,
+silas@wims.io,
+nikitabhoola7@wims.io,
+nomathembadada@wims.io,
+nomaefesengaju@wims.io
+
+Do you want to see more women in blockchain(in Cardano)? Sponsor WIMS below or join us or sponsor our effort:
 
 Donations: ADA addr1q9xfff9jfs0jxlhm3u7fg6q3xx455lp6pgy3sh9l5ar6p6w4j3yelwwvksulh77v2heqpyrzz37ekdze2tfxgxph8jcs4vrxqh
 
 For any donations anyone can communicate with use via cto@wims.io or admin@wims.io
+
+Rewards:
+--------
+
+If any project do not reward participants then people tend to ignore it now matter how beneficial or good it is.
+
+This project directly rewards women(shoppers) world wide but for participants WIMS rewards are very unique: from honor, patronage, employment right to ROI.
+
+Assembled and Voluntary Members:
+--------------------------------
+
+1.
+
+Randall Therian Buckton(Lightyear#2761)
+
+rtbuckton@wims.io
+
+3rd Year Computer Science
+University Student
+Computer Science
+
+2.
+
+Onkemetse Modise(omodise#0476)
+
+dikgoleonkemetse@wims.io
+
+Quality Assurer(Education)
+
+
+3.
+
+celiwe Ngwenya(Cleo35#8007)
+
+celiwengwenya3@wims.io 
+
+UNISA Masters Research Student
+(Blockchain Security)
+
+
+4.
+Ntshembo Hlongwane(🐰_CrazyTeddy_🐰#3689)
+
+juniorWebProjects@wims.io
+
+3rd Year Computer Science
+University Student
+Computer Science
+
+5.
+vimbainashe Garakra(vimbai#2503)
+
+vimbainashe@wims.io
+
+3rd Year University Student
+Software Engineering
+
+6.
+
+Beaula Mahachi(Beaula#2377)
+
+beaula@wims.io
+
+Operations Coordinator
+
+7.
+
+Mamiki Boikanyo
+
+bmmamiki@wims.io 
+
+Administrator
+
+8.
+
+Hini John Noel (MALITAH#3899)
+
+noeljohn1000@wims.io
+
+Accounting and finance professional
+
+
+9.
+
+Bernard Sibanda(wims#5274)
+
+cto@wims.io
+
+CTO & Solutions Architect
+Cardano Plutus Pioneer
+
+10.
+
+Silas (kingsilas007#0677)
+
+silas@wims.io
+
+Developer
+
+BSC Computer Science 
+
+11.
+
+Nikita Bhoola(Bhoola#2451)
+
+nikitabhoola7@wims.io
+
+Computer Applications Technologies 
+High School Educator
+
+12.
+
+Nomathemba Dada(Nomathemba#4622)
+
+noma@wims.io
+
+2nd Year College 
+IT Student(Web Developer)
+
+13.
+
+Nomaefese Winnifred Ngaju
+
+nomaefesengaju@wims.io
+
+Promotion & Marketing
+
+
+
+
+
 
