@@ -248,7 +248,7 @@ Cardano Plutus Pioneer
 
 10.
 
-Silas (kingsilas007#0677)
+Sauleni Silas Chisale (kingsilas007#0677)
 
 silas@wims.io
 
