@@ -22,6 +22,25 @@ Why WCUS?
 
 According to Lindsey Peacock(2008),"Over the last decade, loyalty and customer rewards programs have proven they’re an effective way to drive customer retention, boost customer lifetime value, and inspire loyalty. While the low-key punch card has its place for some businesses, a truly innovative approach to customer loyalty programs can create huge value for retailers."(Source: https://www.shopify.com/blog/loyalty-program)
 
+The world is alreading moving to blockchain for rewarding activities. WCUS will start with shopping, then later move to other areas like workforce: WCUW - WIMS Cardano Universal Worker(Workers earn ADA for their hardwork), to learning: WCUL - WIMS Cardano Universal Learner(students earn ADA for doing well), etc.
+
+More readings:
+
+1.
+https://www2.deloitte.com/us/en/pages/financial-services/articles/making-blockchain-real-customer-loyalty-rewards-programs.html
+
+2.
+https://www.hedgewithcrypto.com/bitcoin-cash-back-app/
+
+3.
+https://www.bigcommerce.com/blog/customer-loyalty-blockchain/
+
+4.
+https://www.oliverwyman.com/our-expertise/insights/2017/sep/oliver-wyman-transport-and-logistics-2017/innovations/the-blockchain-revolution-for-loyalty-programs.html
+
+5.
+https://tokend.io/loyalty/#:~:text=Tokenized%20loyalty%20points%20issued%20on,compared%20to%20regular%20centralized%20solutions.
+
 The Problem:
 
 When people shop in stores they are given points via vendor specific shopping cards. Each company has its own card to promote its product/services.
