@@ -123,7 +123,7 @@ I am looking for funding for this WIMS Cardano dApp. I am also looking for inter
 If you are new to WIMS then check our project from links below:
 
 0. Discord
-https://discord.gg/TfrMumve
+https://discord.gg/avYeyBs3
 2. Exchanges
 https://wimsbytetrade.com/
 https://wims.io/ccx/
