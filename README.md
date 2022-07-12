@@ -1,6 +1,6 @@
 # WIMS Cardano Universal Shopper(WCUS) changing to WIMS-Cardano Universal Reward (WCUR)
 
-Thank you for donations.
+We received some ADA but we do not know who, Thank you for donations.
 Donations for this project may be sent to wallet cardano address below: 
 addr1q8cj3tg3aphx9ckt6c3tuygrgcry7jq6qy7xwagssc7lzmfgdesnu84xmtzqjrt4nkkkzfhywgkuxdza6tgudf38dvxss6g6fl
 or send email to cto@wims.io.
